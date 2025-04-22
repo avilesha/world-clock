@@ -37,7 +37,7 @@ function updateCity(event) {
     "A"
   )}</small></div>
  </div>
-
+ <a herf="/">All cities</a>
  `;
 }
  
